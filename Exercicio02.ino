@@ -1,4 +1,9 @@
-/* Projeto IOT Iluminação Pública
+
+/*
+  Exercicio 02 - 2018
+  IOT na prática com o ESP8266
+  Projeto IOT Iluminação Pública
+  Feito pelo Robinho
 */
 
 // Definições dos pinos de Entrada e Saída
